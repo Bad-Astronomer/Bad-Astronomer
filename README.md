@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kedar Kulkarni</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://bad-astronomer.github.io/Bad-Astronomer-Portfolio/" target="_blank">Kedar Kulkarni</a> </h1>
 <!-- &nbsp -->
 <!--
 **Bad-Astronomer/Bad-Astronomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on a Satisfying Carousel
-- 🌱 I’m currently learning MERN and Three js
-- 👯 I’m looking to collaborate on ML\AI projects
+- 🔭 I’m currently working on my [Portfolio Website](https://bad-astronomer.github.io/Bad-Astronomer-Portfolio/)
+
+- 🌱 I’m currently learning MERN and Tensorflow
+- 👯 I’m looking to collaborate on DL projects
 - 🤔 I’m looking for help with advanced topics in HTML Canvas
 - ⚡ I am enthusiastic about **Machine Learning, Computer Vision, Deep Learning**
 
